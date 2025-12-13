@@ -34,6 +34,7 @@
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
     "chai": "^6.0.1",
     "mochawesome": "^7.1.3"
   }
