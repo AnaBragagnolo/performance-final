@@ -1,7 +1,7 @@
 # Teste de performance com K6
 
 Este repositório foi adaptado para o trabalho de conclusão da disciplina Teste de Performance do curso de Pós-Graduação em Automação de Testes de Software.
-Nele foi implementado um teste em que registra um usuário, faz login dele e também checkout, utilizando vários vários conceitos adquiridos e praticados nas aulas da disciplina.
+Nele foi implementado um teste em que registra um usuário, faz login dele e também checkout, utilizando vários vários conceitos adquiridos e praticados nas aulas da disciplina. Além deste, tem também um teste de login utilizando Data-Driven Testing.
 
 Esses conceitos estão detalhados na sequência.
 
